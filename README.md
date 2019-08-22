@@ -12,29 +12,29 @@ apresentando os principais conceitos deste paradigma de programação.
 - Introduzir a programação com a linguagem Java.
 
 ## Conteúdo Programático
-1. Programação Orientada a Objetos
-  a. Conceito
-  b. Fundamentos de programação orientada a objetos
-  c. Objetos e classes
-  d. Atributos e métodos
-  e. Herança
-  f. Polimorfismo
-  g. Encapsulamento
-  h. Composição
-  i. Herança vs Composição
-  j. Interfaces
-2. Modelagem com UML
-  a. Introdução
-  b. Diagramas
-  c. Ferramentas
-3. Introdução à linguagem Java
-  a. Considerações gerais
-  b. Ambiente de desenvolvimento integrado (IDE)
-  c. Encapsulamento e modificadores de acesso
-  d. Herança, classes abstratas, classes anônimas, polimorfismo
-  e. Interfaces
-  f. Arrays e Coleções
-  g. Principais APIs
-  h. GUI
-  i. Tratamento de exceções
-  j. Threads
+- Programação Orientada a Objetos
+  1. Conceito
+  2. Fundamentos de programação orientada a objetos
+  3. Objetos e classes
+  4. Atributos e métodos
+  5. Herança
+  6. Polimorfismo
+  7. Encapsulamento
+  8. Composição
+  9. Herança vs Composição
+  10. Interfaces
+- Modelagem com UML
+  1. Introdução
+  2. Diagramas
+  3. Ferramentas
+- Introdução à linguagem Java
+  1. Considerações gerais
+  2. Ambiente de desenvolvimento integrado (IDE)
+  3. Encapsulamento e modificadores de acesso
+  4. Herança, classes abstratas, classes anônimas, polimorfismo
+  5. Interfaces
+  6. Arrays e Coleções
+  7. Principais APIs
+  8. GUI
+  9. Tratamento de exceções
+  10. Threads
